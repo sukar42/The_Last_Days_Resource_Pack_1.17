@@ -1,5 +1,0 @@
-{
-    "variants": {
-        "": [ { "model": "block/granite", "weight": 25 }, { "model": "block/granite1", "weight": 5 }, { "model": "block/granite2", "weight": 10 }, { "model": "block/granite3", "weight": 5 }, { "model": "block/granite4", "weight": 5 }, { "model": "block/granite5", "weight": 5 }, { "model": "block/granite6", "weight": 5 }, { "model": "block/granite7", "weight": 5 }, { "model": "block/granite8", "weight": 5 }  ]
-    }
-}
