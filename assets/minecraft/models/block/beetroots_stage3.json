@@ -2,6 +2,6 @@
   "parent": "minecraft:block/crop",
   "textures": {
     "crop": "minecraft:block/beetroots_stage3",
-    "top": "minecraft:block/beetroot_top_3"
+    "top": "minecraft:block/beetroots_top_3"
   }
 }
